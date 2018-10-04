@@ -1,1 +1,1 @@
-# SCPCodeSnippet
+File arraysolution to solve array problem --
